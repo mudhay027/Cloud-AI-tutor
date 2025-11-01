@@ -2,4 +2,10 @@ Flask
 pandas
 numpy
 setuptools
+PyPDF2
+sentence-transformers
+faiss-cpu
+tqdm
+pytesseract
+pillow
 -e .

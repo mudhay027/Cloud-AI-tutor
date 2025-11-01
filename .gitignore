@@ -206,3 +206,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Folders
+staff_pdfs/*
+!staff_pdfs/.gitkeep
+
